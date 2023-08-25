@@ -77,10 +77,8 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sheikhshab/sheikhshab/output/snake.svg" alt="Snake Animation" />
 
-###
