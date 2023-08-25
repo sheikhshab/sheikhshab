@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello WorldAbdullah Zahid is a front-end developer and designer who has a strong background in creating visually appealing and user-friendly websites and web applications. He has a dedication to staying current with the latest web development trends and technologies, making him a valuable asset for any web development project.</p>
+<p align="center">Abdullah Zahid is a front-end developer and designer who has a strong background in creating visually appealing and user-friendly websites and web applications. He has a dedication to staying current with the latest web development trends and technologies, making him a valuable asset for any web development project.</p>
 
 ###
 
@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sheikhshab/sheikhshab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sheikhshab/sheikhshab/output/snake.svg" />
 
 ###
