@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdullah Zahid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, This is Sheikh Abdullah Zahid</h1>
+<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<p align="center">Abdullah Zahid is a front-end developer and designer who has a strong background in creating visually appealing and user-friendly websites and web applications. He has a dedication to staying current with the latest web development trends and technologies, making him a valuable asset for any web development project. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhshab&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhshab" /> </p>
 
@@ -10,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdullah_zhd219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah_zhd219" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah zahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-zahid-3a4424263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah zahid" height="30" width="40" /></a>
 <a href="https://dribbble.com/abdullah zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdullah zahid" height="30" width="40" /></a>
 </p>
 
