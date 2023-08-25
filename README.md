@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/{{sheikhshab}}/{{sheikhshab}}/output/snake.svg)
+
 <h2 align="center">Hi, This is Sheikh Abdullah Zahid 👨‍💻</h2>
 
 ###
