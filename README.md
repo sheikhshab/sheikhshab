@@ -4,6 +4,12 @@
 
 <p align="center">Abdullah Zahid is a front-end developer and designer who has a strong background in creating visually appealing and user-friendly websites and web applications. He has a dedication to staying current with the latest web development trends and technologies, making him a valuable asset for any web development project.</p>
 
+### 🚀 Quick Access to My Details
+📦 You can instantly view my profile in your terminal by running:
+
+```bash
+npx sheikhabdullah
+
 ###
 
 <div align="center">
