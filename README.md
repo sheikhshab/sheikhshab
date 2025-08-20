@@ -97,20 +97,6 @@ This interactive CLI tool will display my:
 
 ---
 
-## 🎯 Current Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🌟 **Portfolio Website** | Personal portfolio showcase | React, TypeScript, Tailwind | ✅ Live |
-| 📱 **E-commerce Platform** | Modern shopping experience | Next.js, Node.js | 🚧 In Progress |
-| 🎨 **Design System** | Reusable component library | Vue.js, Storybook | 🚧 In Progress |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -130,14 +116,6 @@ This interactive CLI tool will display my:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sheikhshab/sheikhshab/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
